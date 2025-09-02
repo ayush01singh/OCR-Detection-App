@@ -1,6 +1,6 @@
 # OCRDetection
 
-OCRDetection is a personal research project focused on detecting and extracting text from images using Optical Character Recognition (OCR) techniques.
+OCRDetection is a personal research project iOS App focused on detecting and extracting text from images using Optical Character Recognition (OCR) techniques.
 
 ## Features
 
@@ -36,3 +36,4 @@ This is a personal research project. Contributions are currently not accepted.
 ## Contact
 
 For questions, contact [1999ayushsingh01@gmail.com](mailto:1999ayushsingh01@gmail.com).
+
